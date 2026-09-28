@@ -345,9 +345,3 @@ The element `2` appears `4` times, so `2` is the majority element.
 | Problems - 11 | Majority Element | Q169 |
 
 ---
-
-## Note
-
-The questions are kept in the same order as the original question list.
-
-The LeetCode question numbers are mentioned wherever the corresponding LeetCode problem was identified.
